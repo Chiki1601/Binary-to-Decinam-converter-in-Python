@@ -1,1 +1,1 @@
-# Binary-to-Decinam-converter-in-Python
+# Binary-to-Decimal-converter-in-Python
